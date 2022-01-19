@@ -1,5 +1,4 @@
 # Primeiros Passos em Java
-## adicionar link da playlist do youtube
 
 ## 📌 Java?!
  - [Java](https://www.oracle.com/br/java/) é a principal linguagem de programação e plataforma de desenvolvimento
